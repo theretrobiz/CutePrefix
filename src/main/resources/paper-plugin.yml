@@ -1,0 +1,4 @@
+name: CutePerfix
+version: '1.0'
+main: retrobiz.cutePerfix.CutePerfix
+api-version: '1.21'
